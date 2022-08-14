@@ -16,4 +16,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimBolhoeve-DBG&layout=compact&theme=radical)](https://github.com/TimBolhoeve-DBG/bestelapp)
 
 # Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tim-bolhoeve&theme=radical" alt="tim-bolhoeve" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tim-bolhoeve&theme=radical&rank=SSS,S,AAA,AA,A,B,C" alt="tim-bolhoeve" /></a>
