@@ -1,5 +1,5 @@
 # Tools 🔨
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=.NET&logoColor=white&color=0078D6)
 <br>
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=092E20)
 <br>
