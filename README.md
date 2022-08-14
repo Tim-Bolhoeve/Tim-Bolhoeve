@@ -11,9 +11,9 @@
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 
 
-# Stats
+# Stats 📈
 ![Tim-Bolhoeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-Bolhoeve&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimBolhoeve-DBG&layout=compact&theme=radical)](https://github.com/TimBolhoeve-DBG/bestelapp)
 
-# Trophies
+# Trophies 🏆
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tim-bolhoeve&theme=radical&column=-1&no-bg=true&no-frame=true" alt="tim-bolhoeve" /></a>
