@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Language-CSS/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/Language-Batch-informational?style=flat&logo=PowerShell&logoColor=white&color=FF0000)
 <br>
-![](https://img.shields.io/badge/Version Control-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 
 
