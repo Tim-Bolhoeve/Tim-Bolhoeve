@@ -1,16 +1,13 @@
 # Tools 🔨
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
-<br>
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=092E20)
-<br>
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Language-CSS/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3)
-![](https://img.shields.io/badge/Language-Batch-informational?style=flat&logo=PowerShell&logoColor=white&color=FF0000)
-<br>
-![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/CSS/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3)
+![](https://img.shields.io/badge/Batch-informational?style=flat&logo=PowerShell&logoColor=white&color=FF0000)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 
 
 # Stats
