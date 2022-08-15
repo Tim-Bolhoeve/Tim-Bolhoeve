@@ -13,7 +13,7 @@
 
 # Stats 📈
 ![Tim-Bolhoeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-Bolhoeve&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimBolhoeve-DBG&layout=compact&theme=radical)](https://github.com/TimBolhoeve-DBG/bestelapp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimBolhoeve-DBG&layout=compact&theme=radical)](https://github.com/Tim-Bolhoeve)
 
 # Trophies 🏆
-[![trophy](https://hacked-github-stat-trophies-fzusfaqnx-flyn-nick.vercel.app/?username=Tim-Bolhoeve&theme=radical)](https://github.com/Tim-Bolhoeve)
+[![trophy](https://hacked-github-stat-trophies-fzusfaqnx-flyn-nick.vercel.app/?username=Tim-Bolhoeve)](https://github.com/Tim-Bolhoeve)
