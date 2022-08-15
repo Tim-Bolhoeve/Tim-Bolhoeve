@@ -18,4 +18,4 @@
 # Trophies 🏆
 <a href="https://github.com/Tim-Bolhoeve"><img src="https://github-readme-stats.vercel.app/?username=tim-bolhoeve&theme=radical&column=-1&no-bg=true&no-frame=true" alt="tim-bolhoeve" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tim-Bolhoeve)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tim-Bolhoeve&theme=radical&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
