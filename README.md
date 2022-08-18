@@ -14,7 +14,7 @@
 
 # 📈 Stats 
 ![Tim-Bolhoeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-Bolhoeve&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Bolhoeve&theme=radical&layout=compact)](https://github.com/Tim-Bolhoeve)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Tim-Bolhoeve/langs)](https://githubtrends.io)
 
 # 🏆 Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tim-Bolhoeve&theme=radical&column=-1&no-bg=true&no-frame=true)](https://github.com/Tim-Bolhoeve)
