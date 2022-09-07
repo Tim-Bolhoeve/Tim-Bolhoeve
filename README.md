@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/JSON-informational?style=flat&logo=JSON&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=0769AD)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/Batch-informational?style=flat&logo=PowerShell&logoColor=white&color=FF0000)
