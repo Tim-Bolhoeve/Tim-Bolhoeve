@@ -1,4 +1,4 @@
-[![Main Language](https://img.shields.io/badge/Main%Framework-Django-%23092e20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+[![Main Language](https://img.shields.io/badge/Main%Programming#Language-Django-%23092e20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 
 # 🔨 Tools 
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
