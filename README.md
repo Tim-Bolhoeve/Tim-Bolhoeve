@@ -12,7 +12,6 @@
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/Batch-informational?style=flat&logo=PowerShell&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=430098)
 
 # 📈 Stats 
 ![Tim-Bolhoeve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-Bolhoeve&show_icons=true&theme=radical)
