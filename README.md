@@ -1,3 +1,6 @@
+## Disclaimer
+My main work & commits are done in SourceTree (BitBucket), so these stats are going to be somewhat skewed. All the stats which can be seen below are from my school days and/or the more recent ones are from forking and submitting pull requests to work-related PyPi packages in the hope they will implement it in a later version.
+
 # 🔨 Tools 
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=007ACC)
