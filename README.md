@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/Tim-Bolhoeve">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=FF4F5D&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Django+web+developer" alt="Typing SVG" /></a>
+    <a href="https://github.com/Tim-Bolhoeve"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=FF4F5D&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Django+web+developer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
