@@ -1,3 +1,26 @@
+<p align="center">
+  <a href="https://github.com/Tim-Bolhoeve">
+    <img src="https://github.com/Tim-Bolhoeve/Tim-Bolhoeve/assets/74612255/bb96cfab-a721-4b08-9e17-0be30180d979" alt="Tim Bolhoeve" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/Tim-Bolhoeve">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=FF4F5D&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Django+web+developer" alt="Typing SVG" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://indedomum.nl/"><img width="32px" alt="Website" title="Personal Website" src="https://i.imgur.com/KPV5ChT.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/tim-bolhoeve-478423199/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/oK2iGaP.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/tim.bolhoeve/" alt="Facebook" title="Facebook"><img width="32px" src="https://i.imgur.com/6wsxLbx.png"/></a>
+
+</p>
+
+<br/>
+
 ## Disclaimer
 My main work & commits are done in SourceTree (BitBucket), so these stats are going to be somewhat skewed. All the stats which can be seen below are from my school days and/or the more recent ones are from forking and submitting pull requests to work-related PyPi packages in the hope they will implement it in a later version.
 
