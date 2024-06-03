@@ -3184,7 +3184,7 @@ I am trying to filter before processing in code because this will save me on ave
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.44m out of 135m users</span>
+                                    <span class="gh">ranked 2.44m out of 137m users</span>
                                 </div>
                                 <div class="text">Published 23 public repositories</div>
                             </div>
@@ -3449,7 +3449,7 @@ I am trying to filter before processing in code because this will save me on ave
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2024, 00:04:44 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2024, 01:04:11 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
