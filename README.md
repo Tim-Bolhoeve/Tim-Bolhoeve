@@ -19,6 +19,10 @@
 
 </p>
 
+<p align="center">
+  <a href="https://meatproxy.me/c/4f9ue"><img src="https://meatproxy.me/badge/c/4f9ue.svg" alt="Certified Thinker" /></a>
+</p>
+
 <br/>
 
 
