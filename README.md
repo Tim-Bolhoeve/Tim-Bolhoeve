@@ -51,7 +51,7 @@ Contributions I have made to publicly available PyPi packages:
 
 # 📈 Stats 
 ## Disclaimer
-My main work & commits are done in SourceTree (BitBucket), so these stats are going to be somewhat skewed. All the stats which can be seen below are from my school days and the more recent ones are from forking and submitting pull requests to work-related PyPi packages in the hope they will implement it in a later version.
+The stats shown below are from ym school days and / or public hobby project and do not reflect or contain my actual work.
 
 ### Metrics
 ![Metrics](/github-metrics.svg)
